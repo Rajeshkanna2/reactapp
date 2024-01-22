@@ -29,6 +29,7 @@ function Home() {
     <hr></hr>
     <Growingplant plantdetails= {plantdetails} />
     <Growingplant/>
+            <Growingplant plantdetails={plantdetails3}/>>
     
         </div>
     )
