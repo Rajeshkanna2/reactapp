@@ -28,7 +28,9 @@ function Home() {
             <Growingplant plantdetails={plantdetails2} />
             <hr></hr>
             <Growingplant plantdetails={plantdetails} />
+            <hr></hr>
             <Growingplant />
+            <hr></hr>
             <Growingplant plantdetails={plantdetails3} />
 
         </div>
