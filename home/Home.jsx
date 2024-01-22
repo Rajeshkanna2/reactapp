@@ -15,6 +15,12 @@ function Home() {
         size: 40,
         color: 'white',
        }
+    const plantdetails3={
+        name: 'Grass',
+        icon: '🌱',
+        size: 10,
+        color: 'Green',
+    } 
     return (
         <div>
            <center> <h1>Welcome to Home</h1> </center>
